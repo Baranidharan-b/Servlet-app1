@@ -1,0 +1,1 @@
+i created this servelet app just to try some Http methodes and CRUD operations . its a basic code for getting employee details and store it into db.. i willl upload more updated programs in my upcoming projects. hit that follow button  to motivate my works .
